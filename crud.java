@@ -25,7 +25,7 @@ public class crud {
 			
 			
 			System.out.println("1. add User");
-			System.out.println("2. add User");
+			System.out.println("2. read User");
 			
 			System.out.print("enter choise");
 			String choice = scan.nextLine();
